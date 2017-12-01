@@ -1,0 +1,19 @@
+{
+  "creatures":
+  {
+    "drone":
+    {
+      "meat_mine"   : "1",
+      "terr_mine"   : "0",
+      "meat_cost"   : "10",
+      "quantity"    : "10"
+    },
+    "ling":
+    {
+      "meat_mine"   : "0",
+      "terr_mine"   : "1",
+      "meat_cost"   : "10",
+      "quantity"    : "0"
+    }
+  }
+}
